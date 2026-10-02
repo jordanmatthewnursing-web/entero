@@ -1,0 +1,7 @@
+Draco decoder — Apache License 2.0; see LICENSE.txt.
+Project: https://github.com/google/draco
+These decoder files match the glTF decoder distribution bundled with the
+installed three@0.180.0 package, examples/jsm/libs/draco/gltf/.
+No decoder source modifications were made by this project.
+The precise Draco binary release is not asserted from the Three.js version.
+License text source: https://raw.githubusercontent.com/google/draco/1.5.7/LICENSE

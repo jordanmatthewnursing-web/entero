@@ -1,0 +1,889 @@
+{
+  "checks": [
+    {
+      "check": "Full 31-object approved anatomy",
+      "pass": true
+    },
+    {
+      "check": "Twelve authoritative hormones",
+      "pass": true
+    },
+    {
+      "check": "Only GIP and GLP-1 are incretins",
+      "pass": true
+    },
+    {
+      "check": "GIP source population",
+      "pass": true
+    },
+    {
+      "check": "GIP \u2192 pancreas native path",
+      "pass": true
+    },
+    {
+      "check": "GIP \u2192 pancreas animated signal",
+      "pass": true
+    },
+    {
+      "check": "GIP \u2192 pancreas response",
+      "pass": true
+    },
+    {
+      "check": "GIP \u2192 adipose native path",
+      "pass": true
+    },
+    {
+      "check": "GIP \u2192 adipose animated signal",
+      "pass": true
+    },
+    {
+      "check": "GIP \u2192 adipose response",
+      "pass": true
+    },
+    {
+      "check": "GIP \u2192 bone native path",
+      "pass": true
+    },
+    {
+      "check": "GIP \u2192 bone animated signal",
+      "pass": true
+    },
+    {
+      "check": "GIP \u2192 bone response",
+      "pass": true
+    },
+    {
+      "check": "GLP1 source population",
+      "pass": true
+    },
+    {
+      "check": "GLP1 \u2192 pancreas native path",
+      "pass": true
+    },
+    {
+      "check": "GLP1 \u2192 pancreas animated signal",
+      "pass": true
+    },
+    {
+      "check": "GLP1 \u2192 pancreas response",
+      "pass": true
+    },
+    {
+      "check": "GLP1 \u2192 stomach native path",
+      "pass": true
+    },
+    {
+      "check": "GLP1 \u2192 stomach animated signal",
+      "pass": true
+    },
+    {
+      "check": "GLP1 \u2192 stomach response",
+      "pass": true
+    },
+    {
+      "check": "GLP1 \u2192 brain native path",
+      "pass": true
+    },
+    {
+      "check": "GLP1 \u2192 brain animated signal",
+      "pass": true
+    },
+    {
+      "check": "GLP1 \u2192 brain response",
+      "pass": true
+    },
+    {
+      "check": "GLP2 source population",
+      "pass": true
+    },
+    {
+      "check": "GLP2 \u2192 gut_epithelium native path",
+      "pass": true
+    },
+    {
+      "check": "GLP2 \u2192 gut_epithelium animated signal",
+      "pass": true
+    },
+    {
+      "check": "GLP2 \u2192 gut_epithelium response",
+      "pass": true
+    },
+    {
+      "check": "PYY source population",
+      "pass": true
+    },
+    {
+      "check": "PYY \u2192 brain native path",
+      "pass": true
+    },
+    {
+      "check": "PYY \u2192 brain animated signal",
+      "pass": true
+    },
+    {
+      "check": "PYY \u2192 brain response",
+      "pass": true
+    },
+    {
+      "check": "PYY \u2192 gut native path",
+      "pass": true
+    },
+    {
+      "check": "PYY \u2192 gut animated signal",
+      "pass": true
+    },
+    {
+      "check": "PYY \u2192 gut response",
+      "pass": true
+    },
+    {
+      "check": "OXYNTOMODULIN source population",
+      "pass": true
+    },
+    {
+      "check": "OXYNTOMODULIN \u2192 brain native path",
+      "pass": true
+    },
+    {
+      "check": "OXYNTOMODULIN \u2192 brain animated signal",
+      "pass": true
+    },
+    {
+      "check": "OXYNTOMODULIN \u2192 brain response",
+      "pass": true
+    },
+    {
+      "check": "OXYNTOMODULIN \u2192 pancreas native path",
+      "pass": true
+    },
+    {
+      "check": "OXYNTOMODULIN \u2192 pancreas animated signal",
+      "pass": true
+    },
+    {
+      "check": "OXYNTOMODULIN \u2192 pancreas response",
+      "pass": true
+    },
+    {
+      "check": "CCK source population",
+      "pass": true
+    },
+    {
+      "check": "CCK \u2192 gallbladder native path",
+      "pass": true
+    },
+    {
+      "check": "CCK \u2192 gallbladder animated signal",
+      "pass": true
+    },
+    {
+      "check": "CCK \u2192 gallbladder response",
+      "pass": true
+    },
+    {
+      "check": "CCK \u2192 pancreas native path",
+      "pass": true
+    },
+    {
+      "check": "CCK \u2192 pancreas animated signal",
+      "pass": true
+    },
+    {
+      "check": "CCK \u2192 pancreas response",
+      "pass": true
+    },
+    {
+      "check": "CCK \u2192 brain native path",
+      "pass": true
+    },
+    {
+      "check": "CCK \u2192 brain animated signal",
+      "pass": true
+    },
+    {
+      "check": "CCK \u2192 brain response",
+      "pass": true
+    },
+    {
+      "check": "SECRETIN source population",
+      "pass": true
+    },
+    {
+      "check": "SECRETIN \u2192 pancreas native path",
+      "pass": true
+    },
+    {
+      "check": "SECRETIN \u2192 pancreas animated signal",
+      "pass": true
+    },
+    {
+      "check": "SECRETIN \u2192 pancreas response",
+      "pass": true
+    },
+    {
+      "check": "SECRETIN \u2192 liver_biliary native path",
+      "pass": true
+    },
+    {
+      "check": "SECRETIN \u2192 liver_biliary animated signal",
+      "pass": true
+    },
+    {
+      "check": "SECRETIN \u2192 liver_biliary response",
+      "pass": true
+    },
+    {
+      "check": "GASTRIN source population",
+      "pass": true
+    },
+    {
+      "check": "GASTRIN \u2192 stomach native path",
+      "pass": true
+    },
+    {
+      "check": "GASTRIN \u2192 stomach animated signal",
+      "pass": true
+    },
+    {
+      "check": "GASTRIN \u2192 stomach response",
+      "pass": true
+    },
+    {
+      "check": "GHRELIN source population",
+      "pass": true
+    },
+    {
+      "check": "GHRELIN \u2192 brain native path",
+      "pass": true
+    },
+    {
+      "check": "GHRELIN \u2192 brain animated signal",
+      "pass": true
+    },
+    {
+      "check": "GHRELIN \u2192 brain response",
+      "pass": true
+    },
+    {
+      "check": "SOMATOSTATIN source population",
+      "pass": true
+    },
+    {
+      "check": "SOMATOSTATIN \u2192 local_paracrine native path",
+      "pass": true
+    },
+    {
+      "check": "SOMATOSTATIN \u2192 local_paracrine animated signal",
+      "pass": true
+    },
+    {
+      "check": "SOMATOSTATIN \u2192 local_paracrine response",
+      "pass": true
+    },
+    {
+      "check": "MOTILIN source population",
+      "pass": true
+    },
+    {
+      "check": "MOTILIN \u2192 gut_smooth_muscle native path",
+      "pass": true
+    },
+    {
+      "check": "MOTILIN \u2192 gut_smooth_muscle animated signal",
+      "pass": true
+    },
+    {
+      "check": "MOTILIN \u2192 gut_smooth_muscle response",
+      "pass": true
+    },
+    {
+      "check": "SEROTONIN source population",
+      "pass": true
+    },
+    {
+      "check": "SEROTONIN \u2192 gut native path",
+      "pass": true
+    },
+    {
+      "check": "SEROTONIN \u2192 gut animated signal",
+      "pass": true
+    },
+    {
+      "check": "SEROTONIN \u2192 gut response",
+      "pass": true
+    },
+    {
+      "check": "SEROTONIN \u2192 vagus native path",
+      "pass": true
+    },
+    {
+      "check": "SEROTONIN \u2192 vagus animated signal",
+      "pass": true
+    },
+    {
+      "check": "SEROTONIN \u2192 vagus response",
+      "pass": true
+    },
+    {
+      "check": "brain target mesh",
+      "pass": true
+    },
+    {
+      "check": "pancreas target mesh",
+      "pass": true
+    },
+    {
+      "check": "liver target mesh",
+      "pass": true
+    },
+    {
+      "check": "gallbladder target mesh",
+      "pass": true
+    },
+    {
+      "check": "adipose target mesh",
+      "pass": true
+    },
+    {
+      "check": "bone target mesh",
+      "pass": true
+    },
+    {
+      "check": "mechanism_cell native geometry",
+      "pass": true
+    },
+    {
+      "check": "mechanism_sensor native geometry",
+      "pass": true
+    },
+    {
+      "check": "mechanism_nucleus native geometry",
+      "pass": true
+    },
+    {
+      "check": "mechanism_target native geometry",
+      "pass": true
+    },
+    {
+      "check": "lumen_boundary native geometry",
+      "pass": true
+    },
+    {
+      "check": "basal_boundary native geometry",
+      "pass": true
+    },
+    {
+      "check": "mechanism_transport native geometry",
+      "pass": true
+    },
+    {
+      "check": "fasting_MMC_wave native geometry",
+      "pass": true
+    },
+    {
+      "check": "Islet beta/alpha/delta labels",
+      "pass": true
+    },
+    {
+      "check": "response_GIP_pancreas complete 180-frame sequence",
+      "pass": true
+    },
+    {
+      "check": "response_GIP_pancreas transforms change",
+      "pass": true
+    },
+    {
+      "check": "response_GIP_adipose complete 180-frame sequence",
+      "pass": true
+    },
+    {
+      "check": "response_GIP_adipose transforms change",
+      "pass": true
+    },
+    {
+      "check": "response_GIP_bone complete 180-frame sequence",
+      "pass": true
+    },
+    {
+      "check": "response_GIP_bone transforms change",
+      "pass": true
+    },
+    {
+      "check": "response_GLP1_pancreas complete 180-frame sequence",
+      "pass": true
+    },
+    {
+      "check": "response_GLP1_pancreas transforms change",
+      "pass": true
+    },
+    {
+      "check": "response_GLP1_stomach complete 180-frame sequence",
+      "pass": true
+    },
+    {
+      "check": "response_GLP1_stomach transforms change",
+      "pass": true
+    },
+    {
+      "check": "response_GLP1_brain complete 180-frame sequence",
+      "pass": true
+    },
+    {
+      "check": "response_GLP1_brain transforms change",
+      "pass": true
+    },
+    {
+      "check": "response_GLP2_gut_epithelium complete 180-frame sequence",
+      "pass": true
+    },
+    {
+      "check": "response_GLP2_gut_epithelium transforms change",
+      "pass": true
+    },
+    {
+      "check": "response_PYY_brain complete 180-frame sequence",
+      "pass": true
+    },
+    {
+      "check": "response_PYY_brain transforms change",
+      "pass": true
+    },
+    {
+      "check": "response_PYY_gut complete 180-frame sequence",
+      "pass": true
+    },
+    {
+      "check": "response_PYY_gut transforms change",
+      "pass": true
+    },
+    {
+      "check": "response_OXYNTOMODULIN_brain complete 180-frame sequence",
+      "pass": true
+    },
+    {
+      "check": "response_OXYNTOMODULIN_brain transforms change",
+      "pass": true
+    },
+    {
+      "check": "response_OXYNTOMODULIN_pancreas complete 180-frame sequence",
+      "pass": true
+    },
+    {
+      "check": "response_OXYNTOMODULIN_pancreas transforms change",
+      "pass": true
+    },
+    {
+      "check": "response_CCK_gallbladder complete 180-frame sequence",
+      "pass": true
+    },
+    {
+      "check": "response_CCK_gallbladder transforms change",
+      "pass": true
+    },
+    {
+      "check": "response_CCK_pancreas complete 180-frame sequence",
+      "pass": true
+    },
+    {
+      "check": "response_CCK_pancreas transforms change",
+      "pass": true
+    },
+    {
+      "check": "response_CCK_brain complete 180-frame sequence",
+      "pass": true
+    },
+    {
+      "check": "response_CCK_brain transforms change",
+      "pass": true
+    },
+    {
+      "check": "response_SECRETIN_pancreas complete 180-frame sequence",
+      "pass": true
+    },
+    {
+      "check": "response_SECRETIN_pancreas transforms change",
+      "pass": true
+    },
+    {
+      "check": "response_SECRETIN_liver_biliary complete 180-frame sequence",
+      "pass": true
+    },
+    {
+      "check": "response_SECRETIN_liver_biliary transforms change",
+      "pass": true
+    },
+    {
+      "check": "response_GASTRIN_stomach complete 180-frame sequence",
+      "pass": true
+    },
+    {
+      "check": "response_GASTRIN_stomach transforms change",
+      "pass": true
+    },
+    {
+      "check": "response_GHRELIN_brain complete 180-frame sequence",
+      "pass": true
+    },
+    {
+      "check": "response_GHRELIN_brain transforms change",
+      "pass": true
+    },
+    {
+      "check": "response_SOMATOSTATIN_local_paracrine complete 180-frame sequence",
+      "pass": true
+    },
+    {
+      "check": "response_SOMATOSTATIN_local_paracrine transforms change",
+      "pass": true
+    },
+    {
+      "check": "response_MOTILIN_gut_smooth_muscle complete 180-frame sequence",
+      "pass": true
+    },
+    {
+      "check": "response_MOTILIN_gut_smooth_muscle transforms change",
+      "pass": true
+    },
+    {
+      "check": "response_SEROTONIN_gut complete 180-frame sequence",
+      "pass": true
+    },
+    {
+      "check": "response_SEROTONIN_gut transforms change",
+      "pass": true
+    },
+    {
+      "check": "response_SEROTONIN_vagus complete 180-frame sequence",
+      "pass": true
+    },
+    {
+      "check": "response_SEROTONIN_vagus transforms change",
+      "pass": true
+    },
+    {
+      "check": "mechanism_cell complete 180-frame sequence",
+      "pass": true
+    },
+    {
+      "check": "mechanism_cell transforms change",
+      "pass": true
+    },
+    {
+      "check": "mechanism_target complete 180-frame sequence",
+      "pass": true
+    },
+    {
+      "check": "mechanism_target transforms change",
+      "pass": true
+    },
+    {
+      "check": "nutrient_0 complete 180-frame sequence",
+      "pass": true
+    },
+    {
+      "check": "nutrient_0 transforms change",
+      "pass": true
+    },
+    {
+      "check": "nutrient_1 complete 180-frame sequence",
+      "pass": true
+    },
+    {
+      "check": "nutrient_1 transforms change",
+      "pass": true
+    },
+    {
+      "check": "nutrient_2 complete 180-frame sequence",
+      "pass": true
+    },
+    {
+      "check": "nutrient_2 transforms change",
+      "pass": true
+    },
+    {
+      "check": "basolateral_signal_0 complete 180-frame sequence",
+      "pass": true
+    },
+    {
+      "check": "basolateral_signal_0 transforms change",
+      "pass": true
+    },
+    {
+      "check": "basolateral_signal_1 complete 180-frame sequence",
+      "pass": true
+    },
+    {
+      "check": "basolateral_signal_1 transforms change",
+      "pass": true
+    },
+    {
+      "check": "basolateral_signal_2 complete 180-frame sequence",
+      "pass": true
+    },
+    {
+      "check": "basolateral_signal_2 transforms change",
+      "pass": true
+    },
+    {
+      "check": "basolateral_signal_3 complete 180-frame sequence",
+      "pass": true
+    },
+    {
+      "check": "basolateral_signal_3 transforms change",
+      "pass": true
+    },
+    {
+      "check": "basolateral_signal_4 complete 180-frame sequence",
+      "pass": true
+    },
+    {
+      "check": "basolateral_signal_4 transforms change",
+      "pass": true
+    },
+    {
+      "check": "signal_GIP_pancreas complete 180-frame sequence",
+      "pass": true
+    },
+    {
+      "check": "signal_GIP_pancreas transforms change",
+      "pass": true
+    },
+    {
+      "check": "signal_GIP_adipose complete 180-frame sequence",
+      "pass": true
+    },
+    {
+      "check": "signal_GIP_adipose transforms change",
+      "pass": true
+    },
+    {
+      "check": "signal_GIP_bone complete 180-frame sequence",
+      "pass": true
+    },
+    {
+      "check": "signal_GIP_bone transforms change",
+      "pass": true
+    },
+    {
+      "check": "signal_GLP1_pancreas complete 180-frame sequence",
+      "pass": true
+    },
+    {
+      "check": "signal_GLP1_pancreas transforms change",
+      "pass": true
+    },
+    {
+      "check": "signal_GLP1_stomach complete 180-frame sequence",
+      "pass": true
+    },
+    {
+      "check": "signal_GLP1_stomach transforms change",
+      "pass": true
+    },
+    {
+      "check": "signal_GLP1_brain complete 180-frame sequence",
+      "pass": true
+    },
+    {
+      "check": "signal_GLP1_brain transforms change",
+      "pass": true
+    },
+    {
+      "check": "signal_GLP2_gut_epithelium complete 180-frame sequence",
+      "pass": true
+    },
+    {
+      "check": "signal_GLP2_gut_epithelium transforms change",
+      "pass": true
+    },
+    {
+      "check": "signal_PYY_brain complete 180-frame sequence",
+      "pass": true
+    },
+    {
+      "check": "signal_PYY_brain transforms change",
+      "pass": true
+    },
+    {
+      "check": "signal_PYY_gut complete 180-frame sequence",
+      "pass": true
+    },
+    {
+      "check": "signal_PYY_gut transforms change",
+      "pass": true
+    },
+    {
+      "check": "signal_OXYNTOMODULIN_brain complete 180-frame sequence",
+      "pass": true
+    },
+    {
+      "check": "signal_OXYNTOMODULIN_brain transforms change",
+      "pass": true
+    },
+    {
+      "check": "signal_OXYNTOMODULIN_pancreas complete 180-frame sequence",
+      "pass": true
+    },
+    {
+      "check": "signal_OXYNTOMODULIN_pancreas transforms change",
+      "pass": true
+    },
+    {
+      "check": "signal_CCK_gallbladder complete 180-frame sequence",
+      "pass": true
+    },
+    {
+      "check": "signal_CCK_gallbladder transforms change",
+      "pass": true
+    },
+    {
+      "check": "signal_CCK_pancreas complete 180-frame sequence",
+      "pass": true
+    },
+    {
+      "check": "signal_CCK_pancreas transforms change",
+      "pass": true
+    },
+    {
+      "check": "signal_CCK_brain complete 180-frame sequence",
+      "pass": true
+    },
+    {
+      "check": "signal_CCK_brain transforms change",
+      "pass": true
+    },
+    {
+      "check": "signal_SECRETIN_pancreas complete 180-frame sequence",
+      "pass": true
+    },
+    {
+      "check": "signal_SECRETIN_pancreas transforms change",
+      "pass": true
+    },
+    {
+      "check": "signal_SECRETIN_liver_biliary complete 180-frame sequence",
+      "pass": true
+    },
+    {
+      "check": "signal_SECRETIN_liver_biliary transforms change",
+      "pass": true
+    },
+    {
+      "check": "signal_GASTRIN_stomach complete 180-frame sequence",
+      "pass": true
+    },
+    {
+      "check": "signal_GASTRIN_stomach transforms change",
+      "pass": true
+    },
+    {
+      "check": "signal_GHRELIN_brain complete 180-frame sequence",
+      "pass": true
+    },
+    {
+      "check": "signal_GHRELIN_brain transforms change",
+      "pass": true
+    },
+    {
+      "check": "signal_SOMATOSTATIN_local_paracrine complete 180-frame sequence",
+      "pass": true
+    },
+    {
+      "check": "signal_SOMATOSTATIN_local_paracrine transforms change",
+      "pass": true
+    },
+    {
+      "check": "signal_MOTILIN_gut_smooth_muscle complete 180-frame sequence",
+      "pass": true
+    },
+    {
+      "check": "signal_MOTILIN_gut_smooth_muscle transforms change",
+      "pass": true
+    },
+    {
+      "check": "signal_SEROTONIN_gut complete 180-frame sequence",
+      "pass": true
+    },
+    {
+      "check": "signal_SEROTONIN_gut transforms change",
+      "pass": true
+    },
+    {
+      "check": "signal_SEROTONIN_vagus complete 180-frame sequence",
+      "pass": true
+    },
+    {
+      "check": "signal_SEROTONIN_vagus transforms change",
+      "pass": true
+    },
+    {
+      "check": "fasting_MMC_wave complete 180-frame sequence",
+      "pass": true
+    },
+    {
+      "check": "fasting_MMC_wave transforms change",
+      "pass": true
+    },
+    {
+      "check": "comparison_dot_glucose_oral complete 180-frame sequence",
+      "pass": true
+    },
+    {
+      "check": "comparison_dot_glucose_oral transforms change",
+      "pass": true
+    },
+    {
+      "check": "comparison_dot_glucose_iv complete 180-frame sequence",
+      "pass": true
+    },
+    {
+      "check": "comparison_dot_glucose_iv transforms change",
+      "pass": true
+    },
+    {
+      "check": "comparison_dot_insulin_oral complete 180-frame sequence",
+      "pass": true
+    },
+    {
+      "check": "comparison_dot_insulin_oral transforms change",
+      "pass": true
+    },
+    {
+      "check": "comparison_dot_insulin_iv complete 180-frame sequence",
+      "pass": true
+    },
+    {
+      "check": "comparison_dot_insulin_iv transforms change",
+      "pass": true
+    },
+    {
+      "check": "glucose oral native comparison animation",
+      "pass": true
+    },
+    {
+      "check": "insulin oral native comparison animation",
+      "pass": true
+    },
+    {
+      "check": "glucose iv native comparison animation",
+      "pass": true
+    },
+    {
+      "check": "insulin iv native comparison animation",
+      "pass": true
+    },
+    {
+      "check": "Matched glucose animation",
+      "pass": true
+    },
+    {
+      "check": "L-cell shared field retained",
+      "pass": true
+    }
+  ],
+  "passed": 220,
+  "anatomy_meshes": 31,
+  "teaching_objects": 193,
+  "animation_tracks": 59,
+  "cell_markers": 498
+}
