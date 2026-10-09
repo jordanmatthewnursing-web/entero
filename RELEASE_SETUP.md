@@ -1,6 +1,6 @@
 # Entero — release setup
 
-Local review candidate. The deployed teaching prototype remains private. This snapshot is not a replacement editing location or an approved public repository.
+Public portfolio source snapshot. The deployed teaching prototype is public. This snapshot includes the current deployed product source.
 
 ## Browser setup
 
@@ -19,7 +19,7 @@ The local `.openai/hosting.json` contains null bindings only. Vite still imports
 
 The original app source, assets and historical rejected revision remain intact. The rejected revision is archival and not the implemented UI. Original source commit and file hashes are in release-manifest.json; the declared transformations are local hosting configuration and this README introduction.
 
-Retain the photo, font and decoder license notices. Original-work licensing, source-scene distribution and public release remain pending. Structural checks and a successful render do not establish physiology accuracy, learner benefit or final design approval.
+Retain the photo, font and decoder license notices. Original-work licensing, source-scene distribution and public release is authorized. Structural checks and a successful render do not establish physiology accuracy, learner benefit or final design approval.
 
 ---
 
